@@ -4,7 +4,7 @@ include(FetchContent)
 
 FetchContent_Declare(
   tensorstore
-  URL "https://github.com/google/tensorstore/archive/refs/tags/v0.1.62.tar.gz")
+  URL "https://github.com/google/tensorstore/archive/refs/tags/v0.1.74.tar.gz")
 
 # Additional FetchContent_Declare calls as needed...
 
